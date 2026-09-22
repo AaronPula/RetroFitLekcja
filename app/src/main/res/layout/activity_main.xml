@@ -9,7 +9,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tvQuestion"
         android:layout_width="match_parent"
         android:textAlignment="center"
         android:padding="30dp"
@@ -22,28 +22,28 @@
         android:layout_height="wrap_content" >
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/rbA"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="odp_a"
             android:layout_margin="10dp"/>
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/rbB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="odp_b"
             android:layout_margin="10dp" />
 
         <RadioButton
-            android:id="@+id/radioButton3"
+            android:id="@+id/rbC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="odp_c"
             android:layout_margin="10dp" />
 
         <RadioButton
-            android:id="@+id/radioButton4"
+            android:id="@+id/rbD"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="odp_d"
@@ -52,7 +52,7 @@
     </RadioGroup>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnAnswer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Zatwierdź"
