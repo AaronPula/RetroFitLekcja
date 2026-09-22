@@ -1,0 +1,244 @@
+{
+  "pytania": [
+    {
+      "tresc": "Która planeta w Układzie Słonecznym jest największa?",
+      "odp_a": "Mars",
+      "odp_b": "Saturn",
+      "odp_c": "Jowisz",
+      "odp_d": "Neptun",
+      "poprawna": 2
+    },
+    {
+      "tresc": "W którym roku odbył się pierwszy lot w kosmos z człowiekiem na pokładzie?",
+      "odp_a": "1957",
+      "odp_b": "1961",
+      "odp_c": "1969",
+      "odp_d": "1975",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Kto namalował 'Mona Lisę'?",
+      "odp_a": "Vincent van Gogh",
+      "odp_b": "Pablo Picasso",
+      "odp_c": "Leonardo da Vinci",
+      "odp_d": "Claude Monet",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Jaki jest najwyższy szczyt górski na świecie?",
+      "odp_a": "K2",
+      "odp_b": "Mont Blanc",
+      "odp_c": "Mount Everest",
+      "odp_d": "Rysy",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Ile wynosi pierwiastek kwadratowy z liczby 144?",
+      "odp_a": "10",
+      "odp_b": "12",
+      "odp_c": "14",
+      "odp_d": "16",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Który pierwiastek chemiczny ma symbol 'O'?",
+      "odp_a": "Złoto",
+      "odp_b": "Węgiel",
+      "odp_c": "Tlen",
+      "odp_d": "Azot",
+      "poprawna": 2
+    },
+    {
+      "tresc": "W jakim kraju znajduje się Wieża Eiffla?",
+      "odp_a": "Włochy",
+      "odp_b": "Francja",
+      "odp_c": "Hiszpania",
+      "odp_d": "Niemcy",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Jak nazywa się stolica Australii?",
+      "odp_a": "Sydney",
+      "odp_b": "Melbourne",
+      "odp_c": "Canberra",
+      "odp_d": "Perth",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Który kontynent jest najmniejszy pod względem powierzchni?",
+      "odp_a": "Europa",
+      "odp_b": "Australia",
+      "odp_c": "Antarktyda",
+      "odp_d": "Ameryka Południowa",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Kto napisał 'Pana Tadeusza'?",
+      "odp_a": "Henryk Sienkiewicz",
+      "odp_b": "Juliusz Słowacki",
+      "odp_c": "Adam Mickiewicz",
+      "odp_d": "Bolesław Prus",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Jaka jest waluta Wielkiej Brytanii?",
+      "odp_a": "Euro",
+      "odp_b": "Dolar",
+      "odp_c": "Funt szterling",
+      "odp_d": "Frank",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Które państwo ma największą powierzchnię na świecie?",
+      "odp_a": "Kanada",
+      "odp_b": "Chiny",
+      "odp_c": "Stany Zjednoczone",
+      "odp_d": "Rosja",
+      "poprawna": 3
+    },
+    {
+      "tresc": "Ile kości ma dorosły człowiek?",
+      "odp_a": "Około 206",
+      "odp_b": "Około 150",
+      "odp_c": "Około 300",
+      "odp_d": "Około 250",
+      "poprawna": 0
+    },
+    {
+      "tresc": "W którym roku Polska przystąpiła do Unii Europejskiej?",
+      "odp_a": "1999",
+      "odp_b": "2004",
+      "odp_c": "2007",
+      "odp_d": "2011",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Jak nazywa się najdłuższa rzeka na świecie?",
+      "odp_a": "Amazonka",
+      "odp_b": "Nil",
+      "odp_c": "Missisipi",
+      "odp_d": "Jangcy",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Który gaz dominuje w atmosferze Ziemi?",
+      "odp_a": "Tlen",
+      "odp_b": "Wodór",
+      "odp_c": "Azot",
+      "odp_d": "Dwutlenek węgla",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Kto wynalazł żarówkę w jej praktycznej formie?",
+      "odp_a": "Nikola Tesla",
+      "odp_b": "Thomas Edison",
+      "odp_c": "Alexander Graham Bell",
+      "odp_d": "Albert Einstein",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Jak nazywa się proces, w którym rośliny wytwarzają pokarm?",
+      "odp_a": "Respiracja",
+      "odp_b": "Transpiracja",
+      "odp_c": "Fotosynteza",
+      "odp_d": "Fermentacja",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Który film zdobył najwięcej Oscarów w historii (remiksem 11)?",
+      "odp_a": "Titanic",
+      "odp_b": "Władca Pierścieni: Powrót Króla",
+      "odp_c": "Ben-Hur",
+      "odp_d": "Wszystkie powyższe mają po 11",
+      "poprawna": 3
+    },
+    {
+      "tresc": "W którym wieku rozpoczęła się II wojna światowa?",
+      "odp_a": "XVIII",
+      "odp_b": "XIX",
+      "odp_c": "XX",
+      "odp_d": "XXI",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Która z tych substancji jest najtwardsza w skali Mohsa?",
+      "odp_a": "Kwarc",
+      "odp_b": "Topaz",
+      "odp_c": "Korund",
+      "odp_d": "Diament",
+      "poprawna": 3
+    },
+    {
+      "tresc": "Jak nazywa się stolicę Japonii?",
+      "odp_a": "Kioto",
+      "odp_b": "Osaka",
+      "odp_c": "Tokio",
+      "odp_d": "Hiroshima",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Która planeta jest najbliżej Słońca?",
+      "odp_a": "Merkury",
+      "odp_b": "Wenus",
+      "odp_c": "Ziemia",
+      "odp_d": "Mars",
+      "poprawna": 0
+    },
+    {
+      "tresc": "Kto jest autorem teorii względności?",
+      "odp_a": "Izaak Newton",
+      "odp_b": "Albert Einstein",
+      "odp_c": "Galileusz",
+      "odp_d": "Stephen Hawking",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Jaką barwę ma czysta woda w dużych ilościach (np. w oceanie)?",
+      "odp_a": "Przezroczystą",
+      "odp_b": "Zieloną",
+      "odp_c": "Niebieską",
+      "odp_d": "Białą",
+      "poprawna": 2
+    },
+    {
+      "tresc": "W którym roku Mieszko I przyjął chrzest Polski?",
+      "odp_a": "966",
+      "odp_b": "1000",
+      "odp_c": "1025",
+      "odp_d": "992",
+      "poprawna": 0
+    },
+    {
+      "tresc": "Który kraj jest ojczyzną pizzy?",
+      "odp_a": "Grecja",
+      "odp_b": "Włochy",
+      "odp_c": "Hiszpania",
+      "odp_d": "Meksyk",
+      "poprawna": 1
+    },
+    {
+      "tresc": "Ile minut ma jedna godzina?",
+      "odp_a": "60",
+      "odp_b": "100",
+      "odp_c": "360",
+      "odp_d": "24",
+      "poprawna": 0
+    },
+    {
+      "tresc": "Jak nazywa się największy ocean na Ziemi?",
+      "odp_a": "Ocean Atlantycki",
+      "odp_b": "Ocean Indyjski",
+      "odp_c": "Ocean Spokojny (Pacyfik)",
+      "odp_d": "Ocean Arktyczny",
+      "poprawna": 2
+    },
+    {
+      "tresc": "Który pierwiastek chemiczny ma symbol 'Fe'?",
+      "odp_a": "Sw",
+      "odp_b": "Żelazo",
+      "odp_c": "Fluor",
+      "odp_d": "Ferm",
+      "poprawna": 1
+    }
+  ]
+}
