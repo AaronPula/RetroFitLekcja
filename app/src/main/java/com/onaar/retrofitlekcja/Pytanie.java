@@ -15,4 +15,13 @@ public class Pytanie {
     public String odp_d;
     @SerializedName("poprawna")
     public int poprawna;
+
+    public Pytanie(String tresc, String odp_a, String odp_b, String odp_c, String odp_d, int poprawna) {
+        this.tresc = tresc;
+        this.odp_a = odp_a;
+        this.odp_b = odp_b;
+        this.odp_c = odp_c;
+        this.odp_d = odp_d;
+        this.poprawna = poprawna;
+    }
 }
