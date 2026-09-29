@@ -14,11 +14,14 @@
         android:textAlignment="center"
         android:padding="30dp"
         android:textSize="30sp"
+        android:visibility="gone"
         android:layout_height="wrap_content"
         android:text="Pytanie" />
 
     <RadioGroup
+        android:id="@+id/rg"
         android:layout_width="match_parent"
+        android:visibility="gone"
         android:layout_height="wrap_content" >
 
         <RadioButton
@@ -56,6 +59,40 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Zatwierdź"
+        android:visibility="gone"
         android:layout_margin="20dp"
         android:padding="15dp"/>
+
+    <Button
+        android:id="@+id/btnZakoncz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="Zakończ" />
+
+    <LinearLayout
+        android:id="@+id/llKoniec"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvKoniec"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Poprawne odpowiedzi: 0"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/btnPokaz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:text="Pokaż odpowiedzi" />
+    </LinearLayout>
+
+
 </LinearLayout>
