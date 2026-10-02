@@ -158,13 +158,16 @@ public class MainActivity extends AppCompatActivity {
                             return;
                         }
                         pytania = response.body();
+
+                        Toast.makeText(MainActivity.this, "Pomyślnie pobrano pytania: " + pytania.size(), Toast.LENGTH_SHORT).show();
+                        odpowiedzi = new int[pytania.size()];
+                        Arrays.fill(odpowiedzi, -1);
+
                         wyswietlPytanie(0);
                         for (View obj :
                                 questionObjs) {
                             obj.setVisibility(View.VISIBLE);
                         }
-                        odpowiedzi = new int[pytania.size()];
-                        Arrays.fill(odpowiedzi, -1);
                     }
 
                     @Override
