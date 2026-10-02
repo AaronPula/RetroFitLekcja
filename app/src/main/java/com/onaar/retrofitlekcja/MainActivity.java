@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://my-json-server.typicode.com/AaronPula/RetroFitLekcja/")
+                .baseUrl("https://raw.githubusercontent.com/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity {
 
                     @Override
                     public void onFailure(Call<ArrayList<Pytanie>> call, Throwable t) {
-
+                        Toast.makeText(MainActivity.this, t.getMessage(), Toast.LENGTH_LONG).show();
                     }
                 }
         );
